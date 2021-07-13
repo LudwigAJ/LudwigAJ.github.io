@@ -28,7 +28,7 @@ linkedin_username: LudwigAJ
 github_username:  LudwigAJ
 
 # Build settings
-theme: minima
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
