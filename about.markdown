@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a penultimate year Computer Engineering student at Imperial College London. My current studies and interests are within Machine Learning, Computer Hardware, and Software Engineering.
 
-You can find the source code for Minima at GitHub:
-[GitHub](https://github.com/LudwigAJ)
-[LinkedIn](https://www.linkedin.com/in/ludwigaj/)
+You can learn more about me as well as me past projects by following my links to LinkedIn and GitHub. There can be found at the bottom of this page.
 
-Y
