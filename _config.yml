@@ -20,7 +20,7 @@
 
 title: Ludwig Jonsson
 # email: ludwig.jonsson18@imperial.ac.uk
-description: Computer Engineering Student @ Imperial College London >- # this means to ignore newlines until "baseurl:"
+description: Computer Engineering Student @ \ Imperial College London # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ludwigaj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
