@@ -8,7 +8,7 @@ Here I am going to show you my past projects.
 
 ### Floating-Point Hardware Acceleration using FPGA
 #### **Jan. 2021 - Apr. 2021**
----
+---   
 
 * Cooperated with teammate to produce custom hardware acceleration for floating-point (IEEE-754) arithmetic.
 * Designed in Quartus and implemented on Intel Cyclone V FPGA.
@@ -20,7 +20,7 @@ Here I am going to show you my past projects.
 
 ### Property Price Predictor
 #### **Nov. 2020**
----
+---   
 
 * Collaborated in a team to design a Machine Learning model that predicts house prices.
 * Coded in Python inside Jupyter notebook and utilised Pytorch to create a Neural Network for training.
@@ -31,7 +31,7 @@ Here I am going to show you my past projects.
 
 ### C-Compiler
 #### **Feb. 2020 - Apr. 2020**
----
+---     
 
 * Worked with partner to build compiler that turns C into Assembly.
 * Implemented a translation feature that could turn C to Python.
